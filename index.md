@@ -10,3 +10,6 @@
 ``` python
 print("Hello! World..")
 ```
+- [ ] Turn on Github
+- [ ] Practice Daily
+- [ ] Sleep and Repeat
